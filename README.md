@@ -1,7 +1,7 @@
 # 🚀 Microsoft 365 Developer | AI + Copilot Specialist
 
 Hi there 👋  
-I'm a **Microsoft 365 Developer** specializing in building **AI-powered, enterprise-grade solutions** using ** Power Platform Microsoft Graph, Copilot, Teams and SharePoint**.
+I'm a **Microsoft 365 Developer** specializing in building **AI-powered, enterprise-grade solutions** using ** Power Platform, Microsoft Graph, Copilot, Teams and SharePoint**.
 
 ---
 
